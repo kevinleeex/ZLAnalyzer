@@ -62,4 +62,4 @@ Analysis.easyRun() # 一次运行以上函数
 ```
 
 ### 开源协议
-本项目遵循MIT开源协议，参见[许可](/LICENSE)
+本项目遵循MIT开源协议，参见[许可](/LICENSE) 
